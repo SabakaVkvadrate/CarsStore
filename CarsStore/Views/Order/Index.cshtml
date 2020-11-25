@@ -1,0 +1,42 @@
+﻿@model CarsStore.ViewModel.OrderViewModel.OrderListViewModel
+@using CarsStore.Helpers
+@{
+    ViewBag.Title = "List of Orders";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Date</th>
+            <th>Price</th>
+            <th>Warranty</th>
+            <th>Actions</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.items)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Brand</td>
+                <td>@item.Model</td>
+                <td>@item.OrderDate</td>
+                <td>@item.Price</td>
+                <td>@item.Warranty</td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", "Order", new { id = item.Id }, null)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="btn-group">
+    @Html.PageLinks(Model.PageInfo, x => Url.Action("Index", new { page = x }))
+</div>

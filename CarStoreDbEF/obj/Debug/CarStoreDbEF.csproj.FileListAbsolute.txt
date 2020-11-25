@@ -1,0 +1,26 @@
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\CarStoreDbEF.dll.config
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\CarStoreDbEF.dll
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\CarStoreDbEF.pdb
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.dll
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.xml
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.dll
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.pdb
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.Migrations.MyMigr.resources
+C:\Users\Paul\source\repos\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.csproj.GenerateResource.Cache
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\CarStoreDbEF.dll.config
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\CarStoreDbEF.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\CarStoreDbEF.pdb
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.Migrations.MyMigr.resources
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.csproj.GenerateResource.Cache
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarStoreDbEF\obj\Debug\CarStoreDbEF.pdb

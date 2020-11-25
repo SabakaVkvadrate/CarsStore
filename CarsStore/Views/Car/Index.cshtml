@@ -1,0 +1,60 @@
+﻿@model CarsStore.ViewModel.CarViewModel.CarListViewModel
+@using CarsStore.Helpers
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Car Page</h2>
+@if (Model.IsAdmin)
+{
+    @Html.ActionLink("Add new", "Edit", "Car")
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>ManafDate</th>
+            <th>Price</th>
+            <th>Photo</th>
+            @if (Model.IsAdmin)
+            {
+                <th>Actions</th>
+            }
+            @if (!Model.IsAdmin)
+            {
+                <th>Action</th>
+
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.items)
+        {
+            <tr>
+                <td>@item.Brand</td>
+                <td>@item.Model</td>
+                <td>@item.ManafDate</td>
+                <td>@item.Price</td>
+                <td><img src="@item.ImgLink" alt="Photo of the car" width="350" height="200"></td>
+                @if (Model.IsAdmin)
+                {
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", "Car", new { id = item.Id }, null) 
+                        |
+                        @Html.ActionLink("Delete", "Delete", "Car", new { id = item.Id }, null)
+                    </td>
+                }
+                @if (!Model.IsAdmin)
+                {
+                    <td> @Html.ActionLink("Buy", "Purchase", "Order", new { id = item.Id }, null)</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="btn-group">
+    @Html.PageLinks(Model.PageInfo, x => Url.Action("Index", new { page = x }))
+</div>

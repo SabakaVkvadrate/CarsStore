@@ -1,0 +1,80 @@
+﻿@model CarsStore.ViewModel.CarViewModel.CarListViewModel
+@{
+    ViewBag.Title = "Start Page ";
+
+}
+
+<h1>The biggest car store in the world!</h1>
+
+<table class="table1">
+    <thead>
+        <tr>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Price</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.items)
+        {
+            <tr>
+                <td>@item.Brand</td>
+                <td>@item.Model</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<table class="table2">
+    Why should you buy in The CarStore?
+    <p>
+        Because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+        because because because because because because because because because because
+    </p>
+    <p>Also, to have good knowledges in ASP.NET you should regularly attend the lectures of Nikola Valchanov</p>
+    <p>Be Happy!</p>
+    <p>Piece</p>
+
+</table>
+

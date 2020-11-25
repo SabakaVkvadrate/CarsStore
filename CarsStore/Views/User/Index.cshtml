@@ -1,0 +1,52 @@
+﻿@model CarsStore.ViewModel.UserViewModel.UserListViewModel
+@using CarsStore.Helpers
+@{
+    ViewBag.Title = "UserPage";
+
+}
+<h2>Users</h2>
+@Html.ActionLink("Add new", "Edit", "User")
+<table class="table">
+    <thead>
+        <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>Email</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>IsAdmin</th>
+            @if (Model.IsAdmin)
+            {
+                <th>Actions</th>
+            }
+            <th>User Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.items)
+        {
+            <tr>
+                <td>@item.Firstname</td>
+                <td>@item.Lastname</td>
+                <td>@item.Email</td>
+                <td>@item.Username</td>
+                <td>@item.Password</td>
+                <td>@item.IsAdmin</td>
+
+                @if (Model.IsAdmin)
+                {
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", "User", new { id = item.Id }, null)
+                        |
+                        @Html.ActionLink("Delete", "Delete", "User", new { id = item.Id }, null)
+                    </td>
+                }
+                <td>@item.Id</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="btn-group">
+    @Html.PageLinks(Model.PageInfo, x => Url.Action("Index", new { page = x }))
+</div>
+

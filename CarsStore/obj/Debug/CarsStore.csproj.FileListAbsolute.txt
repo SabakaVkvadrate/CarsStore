@@ -1,0 +1,116 @@
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ApplicationInsights.config
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\CarsStore.dll.config
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\CarsStore.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\CarsStore.pdb
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Antlr3.Runtime.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.Web.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Newtonsoft.Json.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Helpers.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Mvc.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Optimization.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Razor.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.WebPages.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\WebGrease.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Helpers.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Mvc.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Optimization.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.Razor.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.WebPages.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Antlr3.Runtime.pdb
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Newtonsoft.Json.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\Microsoft.AI.Web.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\obj\Debug\CarsStore.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\CarsStore\CarsStore\obj\Debug\CarsStore.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\CarsStore\CarsStore\obj\Debug\CarsStore.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\obj\Debug\CarsStore.pdb
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\CarStoreDbEF.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\EntityFramework.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\CarStoreDbEF.pdb
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\CarStoreDbEF.dll.config
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\EntityFramework.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\PagedList.dll
+C:\Users\Paul\source\repos\CarsStore\CarsStore\bin\PagedList.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ApplicationInsights.config
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\CarsStore.dll.config
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\CarsStore.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\CarsStore.pdb
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Antlr3.Runtime.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\CarStoreDbEF.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.Web.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Newtonsoft.Json.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\PagedList.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Helpers.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Mvc.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Optimization.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Razor.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.WebPages.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\WebGrease.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\EntityFramework.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\CarStoreDbEF.pdb
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\CarStoreDbEF.dll.config
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\PagedList.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Helpers.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Mvc.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Optimization.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.Razor.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.WebPages.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Antlr3.Runtime.pdb
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Newtonsoft.Json.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\Microsoft.AI.Web.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\EntityFramework.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\obj\Debug\CarsStore.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\obj\Debug\CarsStore.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\obj\Debug\CarsStore.dll
+C:\Users\Василий\Desktop\CarsStore (2)\CarsStore\CarsStore\obj\Debug\CarsStore.pdb

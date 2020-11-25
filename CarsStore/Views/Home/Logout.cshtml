@@ -1,0 +1,20 @@
+﻿@model CarsStore.ViewModel.LoginViewModel
+@{
+    ViewBag.Title = "LogOut";
+}
+
+<h2>Log Out</h2>
+@if (Session["LoggedUser"] != null)
+{
+<h3>@Session["UserName"], are you sure that you want to quit?</h3>
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+
+        <input type="submit" value="Yes" class="btn btn-default" />|
+        @Html.ActionLink("No, Bact to Menu", "Index")
+    </div>
+}

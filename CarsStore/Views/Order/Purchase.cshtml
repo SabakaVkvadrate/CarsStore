@@ -1,0 +1,52 @@
+﻿@model CarsStore.ViewModel.OrderViewModel.PurchaseViewModel
+@{
+    ViewBag.Title = "Purchase";
+}
+@if (Session["LoggedUser"] != null)
+{
+<h3>@Session["UserName"], are you sure that you want to Purchase This car?</h3>
+}
+<div>
+    <hr />
+    @using (Html.BeginForm("Purchase", "Order", FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.UserId)
+        @Html.HiddenFor(model => model.CarId)
+        <dl class="dl-horizontal">
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Brand)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Brand)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Model)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Model)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dd>
+                @Html.LabelFor(model => model.Warranty, new { @class = "control-label col-md-2" })
+                @Html.EditorFor(model => model.Warranty, new { @class = "control-label col-md-10" })
+                @Html.ValidationMessageFor(model => model.Warranty)
+            </dd>
+        </dl>
+        <div class="form-actions no-color">
+            <input type="submit" value="Yes" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index","Car")
+        </div>
+    }
+</div>
+
